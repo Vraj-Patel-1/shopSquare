@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#111111"/>
+
+  <g fill="none" stroke="#ffffff" stroke-width="15"
+     stroke-linecap="round" stroke-linejoin="round">
+    <rect x="146" y="110" width="220" height="200" rx="25"/>
+    <path d="M200 160 Q200 245 256 245 Q312 245 312 160"/>
+    <path d="M146 160 H366"/>
+  </g>
+
+  <text x="256" y="390" fill="white"
+        font-family="Arial" font-size="58"
+        font-weight="bold" text-anchor="middle">
+    shopSquare
+  </text>
+</svg>
